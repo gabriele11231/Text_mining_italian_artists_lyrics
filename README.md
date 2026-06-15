@@ -42,5 +42,7 @@ The analysis illustrates a strong artistic tendency in the Italian music scene t
 ## Reproducibility
 To ensure full transparency and research reproducibility, the entire computational framework has been made available in this repository. The codebase is organized into interactive notebooks, where each logical block is accompanied by explanatory comments.
 
+To manage the heavy computational requirements of the project, the entire experimental framework was executed via the Windows Subsystem for Linux (WSL). Operating within a dedicated [rapids25.06_python3.12](https://rapids.ai/) environment allowed us to seamlessly interface with the CUDA architecture, thereby fully exploiting the NVIDIA GPU for hardware acceleration.
+
 ---
 *Project developed for the Text Mining and Search course (A.Y. 2025/2026), CdLM in Theory and Technology of Communication, Università degli Studi di Milano-Bicocca.*

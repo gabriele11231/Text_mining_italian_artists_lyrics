@@ -1,0 +1,26 @@
+# Scraping & API
+requests
+python-dotenv
+lyricsgenius
+
+# NLP & Text Processing
+lingua-language-detector
+spacy
+stanza
+
+# Data Science & Machine Learning
+numpy
+pandas
+scikit-learn
+joblib
+xgboost
+
+# Deep Learning & Transformers
+torch
+datasets
+transformers
+
+# Data Visualization
+plotly
+matplotlib
+wordcloud
